@@ -1,0 +1,8 @@
+query GetAlbums{
+  albums{
+    data{
+      id
+      title
+    }
+  }
+}
